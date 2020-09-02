@@ -1,0 +1,37 @@
+-------------------------- Description fichiers de données Covid-19--------------------
+
+Lien : https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/
+# File 1 : donnees-hospitalieres-covid19-2020-08-05-19h00.csv (utilisé)
+Les données hospitalières relatives à l'épidémie du COVID-19 par département et sexe du patient : 
+nombre de patients hospitalisés, 
+nombre de personnes actuellement en réanimation ou soins intensifs, 
+nombre cumulé de personnes retournées à domicile, 
+nombre cumulé de personnes décédées.
+
+# File 2 : donnees-hospitalieres-classe-age-covid19-2020-08-05-19h00.csv
+Les données hospitalières quotidiennes relatives à l'épidémie du COVID-19 par département du patient : 
+nombre quotidien de personnes nouvellement hospitalisées, 
+nombre quotidien de nouvelles admissions en réanimation, 
+nombre quotidien de personnes nouvellement décédées, 
+nombre quotidien de nouveaux retours à domicile.
+
+Lien : https://www.data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/
+# File 3 : sursaud-corona-quot-dep-2020-08-05-19h15.csv
+Les données quotidiennes de SOS médecins et des urgences hospitalières par département, sexe et tranche d’âge des patients : 
+nombre de passages aux urgences pour suspicion de COVID-19, 
+nombre total de passages aux urgences, 
+nombre d’hospitalisations parmi les passages aux urgences pour suspicion de COVID-19, 
+nombre total d’actes médicaux SOS Médecins pour suspicion de COVID-19, 
+nombre d’actes médicaux SOS Médecins.
+
+# File 4 : sursaud-corona-quot-reg-2020-08-05-19h15.csv
+Les données quotidiennes de SOS médecins et des urgences hospitalières par région, sexe et tranches d’âge des patients : 
+nombre de passages aux urgences pour suspicion de COVID-19, 
+nombre total de passages aux urgences, 
+nombre d’hospitalisations parmi les passages aux urgences pour suspicion de COVID-19, 
+nombre d’actes médicaux SOS Médecins pour suspicion de COVID-19, 
+nombre d’actes médicaux SOS Médecins total. 
+
+Le code région correspond au code INSEE publié par l’INSEE sur www.data.gouv.fr.
+
+
